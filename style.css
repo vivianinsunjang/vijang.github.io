@@ -1,0 +1,30 @@
+.introduction {font-family: 'Libre Baskerville', serif;font-size: 20px; line-height: 30px; }
+h1 {
+    font-family: 'Libre Baskerville', serif; font-size: 40px;line-height: 100px;
+    
+    margin:0;
+    text-transform:uppercase;
+    text-align: center;
+}
+
+
+body {
+    margin:0 auto;
+max-width: 760px;}
+
+
+
+.iterations {
+    font-family: 'Libre Baskerville', serif; font-size: 20px;line-height: 50px;
+}
+
+
+footer {
+    margin-top: 10px;
+    padding: 10px 10px;
+    background-color: #e6e6e6;
+    font-family: 'Libre Baskerville', serif; font-size: 15px;
+    text-align: center
+}
+
+
