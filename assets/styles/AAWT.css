@@ -26,10 +26,13 @@ body {
 }
 
 .container {
+    font-family: 'Libre Baskerville', serif; font-size: 20px;line-height: 100px;
+    text-align: center;
     max-width: 800px;
     margin: auto;
   overflow: auto;
     padding: 0;
+  
      /*scroll-snap-type: y mandatory;
     overflow-y:scroll;*/
 }
@@ -40,8 +43,17 @@ img {max-width:70%}
     display:grid;
    
    
-    margin-bottom: 2rem;
-    scroll-snap-align:start;
+    /*margin-bottom: 2rem;
+    scroll-snap-align:start;*/
+}
+
+.text{
+    font-family: Times new roman; font-size: 20px;line-height: 30px;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+  overflow: auto;
+    padding: 0;
 }
 
 .iterations {
