@@ -39,6 +39,40 @@ body {
 
 img { max-width:70%; margin:auto;}
 
+table#feminine {
+    
+    min-width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #bfbfbf;
+    
+    overflow: hidden;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: 'Libre Baskerville', serif; font-size: 15px;line-height: 30px;
+}
+
+table#feminine th{
+    border-bottom: 1px solid #bfbfbf;
+}
+
+table#HisHer{
+        min-width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 3px solid #bfbfbf;
+ 
+    overflow: hidden;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-family: 'Libre Baskerville', serif; font-size: 15px;line-height: 30px;
+}
+
+table#HisHer tr, table#HisHer td, table#HisHer th  {
+    border: 2px solid #bfbfbf; 
+}
+
+
 .card{
     display:grid;
    
