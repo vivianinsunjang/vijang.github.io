@@ -12,7 +12,7 @@ work=[
 
     parked in front of my screen
     facing a wall
-    [back.jpg]
+    [black.jpg]
    
     missing the office windows
     the natural scenery outside 
