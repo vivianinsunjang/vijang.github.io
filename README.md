@@ -1,2 +1,0 @@
-# GermanyxKorea
-Germany x Korea
