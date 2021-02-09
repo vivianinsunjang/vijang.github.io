@@ -8,7 +8,7 @@ work=[
     working from home 
     since March 
     from my windowless den
-    [pano without.jpg]
+    [pano without.jpeg]
 
     parked in front of my screen
     facing a wall
