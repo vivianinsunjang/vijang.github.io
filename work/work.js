@@ -18,7 +18,7 @@ work=[
     the natural scenery outside 
     brief serenity offered by the trees and sky
     between meeting rooms
-    [microsoft windows.jpg]
+    [Microsoft Windows.jpg]
 
     I wanted to recreate this feeling 
     create a scene beyond my wall
