@@ -99,8 +99,9 @@ work=[
     "name":"p5.js",
     "tags":"p5.js",
     "thumb":"thumb.jpg",
-    "content":`p5 js class I took and the assignments I did as part of the coursework'
+    "content":`p5 js class I took and the assignments I did as part of the coursework'}]
 
+work=[,{
 
 var ucla = "UCLA Intro to Programming for the Visual Arts in p5.js";
 document.write("<p>" + ucla.link("https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi") + "</p>");
@@ -122,7 +123,7 @@ https://www.youtube.com/watch?v=FM7MFYoylVs
     `
       
       
-  } /*,
+  }] /*,
 
 
      {  "folder":"GxK",
@@ -143,4 +144,4 @@ https://www.youtube.com/watch?v=FM7MFYoylVs
 
     `
   } */
-    ]
+    
