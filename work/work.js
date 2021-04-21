@@ -93,31 +93,20 @@ work=[
     
 
 
-/*,
+,
     
-     {  "folder":"M3",
-    "name":"M3",
-    "tags":"Collage, Mixed Media",
-    "thumb":"thumb.jpg",
-    "content":`I'm interested in what happens to language under specific sociopolitical constraints.
-    Language under capitalism compresses itself—it minifies into lean, neat boxes fit for work and production. It does not rebel, it does not deviate; it eclipses possibility of what could be in our relationships.
-    <iframe src="https://player.vimeo.com/video/469486919" width="100%" height="396" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    This interactive, audio-based web poem plays out through a fictional bureaucratic phone call. <a href="office/index.html" target="_blank">Try it on your mobile device</a> for the intended experience.
-    [phonedemo-title.gif]
-    Dialing any one of several digits (including secret, non-menu digits) will play a computer-synthesized, female voice recording.
-    [2.jpg]
-    [3a.jpg]
-    [3b.jpg]
-    [4.jpg]
-    [5.jpg]
-    [6.jpg]
-    Most of this text was written by a human pretending to be a machine; some text was generated through Python webscrapes of Google autocompletes.
-    [8.jpg]
-    In total, I webscraped over 3,000 discrete expressions of Thank You. (I've only used a subset)
-    [thankyou.jpg]
+     {  "folder":"p5",
+    "name":"p5",
+    "tags":"p5.js",
+    "thumb":"crop.png",
+    "content":`p5.js class I took and the assignments I did as part of the coursework
+https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi
+   The first assignment was to recreate a part of this picture
+         [dreamcity.jpg]
+    I chose this snippet of it
+         [crop.png]
+and created this
 
-    Finally, no bureaucratic call is complete without some palatable music.
-    [0.jpg]
     
     `
   },
