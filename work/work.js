@@ -96,7 +96,7 @@ work=[
 ,
     
      {  "folder":"p5",
-    "name":"p5",
+    "name":"p5.js",
     "tags":"p5.js",
     "thumb":"thumb.jpg",
     "content":`p5.js class I took and the assignments I did as part of the coursework
@@ -104,7 +104,7 @@ https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-
    The first assignment was to recreate a part of this picture
          [dreamcity.jpg]
     I chose this snippet of it
-         [crop.png]
+         [thumb.jpg]
 and created this
 
     
