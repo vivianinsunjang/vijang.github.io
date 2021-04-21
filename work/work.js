@@ -99,7 +99,7 @@ work=[
     "name":"p5.js",
     "tags":"p5.js",
     "thumb":"thumb.jpg",
-    "content":`p5.js class I took and the assignments I did as part of the coursework
+    "content":`p5 js class I took and the assignments I did as part of the coursework
 https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi
    The first assignment was to recreate a part of this picture
          [dreamcity.jpg]
