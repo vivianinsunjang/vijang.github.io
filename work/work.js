@@ -109,7 +109,7 @@ and created this
 
     
     `
-  },
+  } /*,
 
 
      {  "folder":"GxK",
@@ -129,5 +129,5 @@ and created this
     Images from DuckDuckGo. Font is <a href="https://fonts.google.com/specimen/Piazzolla?category=Serif" target="_blank">Piazolla</a> by Google Fonts.
 
     `
-  }
+  } */
     ]
