@@ -101,11 +101,13 @@ work=[
     "thumb":"thumb.jpg",
     "content":`p5 js class I took and the assignments I did as part of the coursework
 https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi
-   The first assignment was to recreate a part of this picture
+   The first assignment was to recreate a part of this painting, 
+Dream City by Paul Klee in 1921
          [dreamcity.jpg]
     I chose this snippet of it
          [thumb.jpg]
 and created this
+         [screen.jpeg]
 
     
     `
