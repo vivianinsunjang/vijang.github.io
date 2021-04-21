@@ -115,7 +115,13 @@ and created this
          [screen.jpeg]
 
     
+For the second assignment, our task was to create an abstract greyscale pattern reflecting the structure of one of your favorite songs.
+For this, I chose the The Chainsmokers & Coldplay - Something Just Like This 
+https://www.youtube.com/watch?v=FM7MFYoylVs
+[chainsmokers.jpeg]
     `
+      
+      
   } /*,
 
 
