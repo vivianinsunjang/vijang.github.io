@@ -100,7 +100,12 @@ work=[
     "tags":"p5.js",
     "thumb":"thumb.jpg",
     "content":`p5 js class I took and the assignments I did as part of the coursework
-https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi
+
+
+var ucla = "UCLA Intro to Programming for the Visual Arts in p5.js";
+document.write("<p>" + ucla.link("https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi") + "</p>");
+
+
    The first assignment was to recreate a part of this painting, 
 Dream City by Paul Klee in 1921
          [dreamcity.jpg]
