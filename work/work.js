@@ -99,7 +99,7 @@ work=[
     "name":"p5.js",
     "tags":"p5.js",
     "thumb":"thumb.jpg",
-    "content":`p5 js class I took and the assignments I did as part of the coursework
+    "content":`a p5.js class I took and the assignments I did as part of the coursework
 
 <a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi" target="_blank">UCLA Intro to Programming for the Visual Arts in p5.js</a>
 
